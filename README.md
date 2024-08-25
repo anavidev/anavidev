@@ -3,7 +3,7 @@
 ### Meu nome é Ana Vitória e estou a caminho de me tornar uma Analista de Sistemas 💻
 <br>
 
-<p>📚 | Análise e Desenvolvimento de Sistemas - Graduação em andamento</p>
+<p>📚 | Análise e Desenvolvimento de Sistemas</p>
 <p>🏫 | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</p>
 
 ###
