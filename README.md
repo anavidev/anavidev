@@ -1,6 +1,6 @@
 <h1 align="left">Olá, bem-vindo(a) ao meu perfil!</h1>
 
-### Meu nome é Ana Vitória e estou a caminho de me tornar uma Analista de Sistemas 💻
+### Meu nome é Ana Vitória e pretendo atuar na área de dados 💻
 <br>
 
 <p>📚 | Análise e Desenvolvimento de Sistemas</p>
