@@ -1,4 +1,4 @@
-<h1 align="left">Olá, bem-vindo(a) ao meu perfil!</h1>
+<h1 align="left">Olá, seja bem-vindo(a)!</h1>
 <br>
 
 <p>📚 | Análise e Desenvolvimento de Sistemas</p>
