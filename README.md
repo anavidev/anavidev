@@ -43,6 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
+  <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" height="40" alt="seaborn logo" />
   <img width="12" />
 </div>
