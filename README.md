@@ -1,8 +1,8 @@
 <h1 align="left">Olá, seja bem-vindo(a)!</h1>
 <br>
 
-<p>📚 | Análise e Desenvolvimento de Sistemas</p>
-<p>🏫 | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</p>
+<h4>📚 | Análise e Desenvolvimento de Sistemas</h4>
+<h4>🏫 | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</h4>
 
 ###
 
