@@ -42,4 +42,8 @@
   <img width="12" />
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" height="40" alt="seaborn logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
 </div>
