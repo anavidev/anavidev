@@ -18,9 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
 </div>
 <br>
@@ -35,7 +35,5 @@
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" height="40" alt="seaborn logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
 </div>
