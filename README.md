@@ -7,7 +7,7 @@
 <h1 align="left">Olá, seja bem-vindo(a)!</h1>
 
 <div align ="center">
-  <h4>📊 | Analista de Dados</h4>
+  <h4>📊 | Estagiária de Dados</h4>
   <h4>📚 | Análise e Desenvolvimento de Sistemas</h4>
   <h4>🏫 | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</h4>
 </div>
